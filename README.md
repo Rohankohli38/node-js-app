@@ -4,7 +4,11 @@ Application created for purpose of [How to Deploy JavaScript & Node.js Applicati
 
 
 Steps to Run -
+
 git clone git@github.com:maciejtreder/myServerlessApp.git
+
 cd myServerlessApp
+
 git co secondStep
+
 npm install 
